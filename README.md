@@ -61,7 +61,7 @@ The system architecture consists of:
 6. **Push Notification System**: Firebase Cloud Messaging to manage message notifications, calls, and other alerts.
 
 ### Architecture Diagram
-![System Architecture Diagram](/images/System%20Architecture%20Diagram.png)
+![System Architecture Diagram](/images/System%20Architecture%20Diagram.svg)
 
 ---
 
@@ -94,7 +94,7 @@ The system architecture consists of:
    - Columns: `callId`, `callerId`, `receiverId`, `type` (voice/video), `timestamp`, `duration`.
 
 ### Entity Relationship Diagram (ERD)
-![Entity-Relationship Diagram](/images/Entity-Relationship%20Diagram.png)
+![Entity-Relationship Diagram](/images/Entity-Relationship%20Diagram.svg)
 
 ---
 
@@ -181,7 +181,7 @@ The system architecture consists of:
     ```
 
 ### Sequence Digram (Message Sending Flow)
-![Sequence Diagram (Message Sending Flow)](/images/Sequence%20Diagram%20(Message%20Sending%20Flow).png)
+![Sequence Diagram (Message Sending Flow)](/images/Sequence%20Diagram%20(Message%20Sending%20Flow).svg)
 
 ---
 
@@ -217,7 +217,7 @@ Redis caching for frequently accessed data (e.g., session management).
 Automated daily backups of PostgreSQL databases and Firebase Storage to prevent data loss.
 
 ### Deployment Diagram 
-![Deplyment Diagram](/images/Deployment%20Diagram.png)
+![Deplyment Diagram](/images/Deployment%20Diagram.svg)
 
 ---
 
@@ -241,6 +241,6 @@ Automated daily backups of PostgreSQL databases and Firebase Storage to prevent 
    - **Attributes**: `mediaId`, `messageId`, `type`, `url`, `size`.
    - **Methods**: `uploadMedia()`, `deleteMedia()`.
 
-![UML Class Diagrams](/images/UML%20Class%20Diagram.png)
+![UML Class Diagrams](/images/UML%20Class%20Diagram.svg)
 
 ---
