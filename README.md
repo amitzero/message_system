@@ -244,3 +244,4 @@ Automated daily backups of PostgreSQL databases and Firebase Storage to prevent 
 ![UML Class Diagrams](images/UML%20Class%20Diagram.svg)
 
 ---
+
