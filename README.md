@@ -414,3 +414,4 @@ Automated daily backups of PostgreSQL databases and Firebase Storage to prevent 
 4. **Accessibility**: Use readable font sizes, color contrasts, and test with screen readers.
 
 ---
+
