@@ -1,0 +1,12 @@
+@startuml
+actor User
+participant "Contacts Screen" as Contacts
+participant "Backend Service" as Backend
+
+User -> Contacts: Search for a contact
+Contacts -> Backend: Query contact by email
+Backend --> Contacts: Return search results
+User -> Contacts: Select contact
+Contacts -> Backend: Send add request
+Backend --> Contacts: Confirm success
+@enduml
