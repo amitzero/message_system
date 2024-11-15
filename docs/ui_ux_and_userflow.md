@@ -1,11 +1,24 @@
-# Screens and User Flow Documentation
+# UI/UX and User Flow
+
+## Overview
+This document contains detailed information of UI. It outlines the screens, user flow, design principles, and additional instructions to ensure a seamless user experience and consistent branding.
 
 ## Overview
 This document outlines all the screens in the messaging app, their purpose, functionality, and user flow.
 
 ---
 
-## Screens
+## Design Principles
+1. **Simplicity**: The design should focus on functionality with minimal clutter.
+2. **Accessibility**: Ensure readability and usability for all, including users with disabilities.
+3. **Consistency**: Use a unified color scheme, typography, and components across screens.
+4. **Responsive Design**: The app must be optimized for various screen sizes, including phones, tablets, and desktops.
+5. **Performance**: Lightweight design assets to ensure fast loading times.
+
+---
+
+## Screens and Components
+Below is the list of screens and their details:
 
 ### 1. Splash Screen
 - **Purpose**: Initial screen shown while the app loads.
@@ -120,8 +133,12 @@ This document outlines all the screens in the messaging app, their purpose, func
 
 ## User Flow
 
+### User Journey Flow
+![User Journey Flow](./uml/User%20Journey%20Flow.svg)
+
+---
+
 ### User Login Flow
-#### Description
 Guides users through the login process from the splash screen to the home screen.
 
 ![User Login Flow](./uml/User%20Login%20Flow.svg)
@@ -129,7 +146,6 @@ Guides users through the login process from the splash screen to the home screen
 ---
 
 ### User Registration Flow
-#### Description
 Guides new users through the account creation process.
 
 ![User Registration Flow](./uml/User%20Registration%20Flow.svg)
@@ -137,7 +153,6 @@ Guides new users through the account creation process.
 ---
 
 ### Messaging Flow
-#### Description
 Covers sending and receiving messages in the chat screen.
 
 ![Messaging Flow](./uml/Messaging%20Flow.svg)
@@ -145,7 +160,6 @@ Covers sending and receiving messages in the chat screen.
 ---
 
 ### Password Reset Flow
-#### Description
 Outlines the process of resetting a user's password.
 
 ![Password Reset Flow](./uml/Password%20Reset%20Flow.svg)
@@ -153,10 +167,37 @@ Outlines the process of resetting a user's password.
 ---
 
 ### Contact Addition Flow
-#### Description
 Covers adding a new contact to the user's contact list.
 
 ![Contact Addition Flow](./uml/Contact%20Addition%20Flow.svg)
+
+---
+
+## Design Assets
+1. **Color Scheme**:
+   - Primary Color:
+   - Accent Color: 
+   - Background:
+   - Text:
+2. **Typography**:
+   - Font: 
+   - Sizes: standard
+3. **Icons**:
+   - Use Material Design icons for consistency.
+   - Sizes: standard.
+
+---
+
+## Design Deliverables
+1. **Wireframes**:
+   - Low-fidelity wireframes for all screens.
+2. **Mockups**:
+   - High-fidelity, clickable prototypes in Figma, Adobe XD, or Sketch.
+3. **Style Guide**:
+   - Comprehensive guide for colors, typography, and component designs.
+4. **Exported Assets**:
+   - SVG or PNG files for icons and images.
+   - Optimized assets for different resolutions.
 
 ---
 

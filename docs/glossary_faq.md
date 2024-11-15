@@ -17,7 +17,6 @@
 | **NestJS**              | A progressive Node.js framework for building efficient and scalable server-side applications.                  |
 | **Firestore**           | A cloud-hosted NoSQL database by Firebase for scalable, real-time applications.                               |
 | **RBAC**                | Role-Based Access Control, a method for regulating access to resources based on roles assigned to users.       |
-| **PlantUML**            | A tool for creating UML diagrams from plain text descriptions.                                                 |
 
 ---
 
@@ -97,6 +96,7 @@ A15: Planned features include:
 - Multi-device support.
 - Scheduled message delivery.
 - Voice and video calling.
+- Team collaboration
 
 **Q16: Can the app support custom emojis or stickers?**  
 A16: Yes, custom emoji and sticker packs are planned for a future release.
