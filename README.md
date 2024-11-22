@@ -11,7 +11,7 @@ This repository includes comprehensive documentation for developers, designers, 
 1. **[System Architect](docs/system_architect.md)**  
    Overview of the system architecture, including high-level designs, key technology decisions, and deployment considerations.
 
-2. **[UI/UX Designer](docs/ui_ux_designer.md)**  
+2. **[UI/UX and Userflow](docs/ui_ux_and_userflow.md)**  
    Guidelines and instructions for creating user-friendly and aesthetically pleasing interfaces for the app.
 
 3. **[API Endpoints](docs/api_endpoints.md)**  
