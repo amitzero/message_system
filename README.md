@@ -26,13 +26,10 @@ This repository includes comprehensive documentation for developers, designers, 
 6. **[Encryption & Security](docs/encryption_security.md)**  
    Description of the app's encryption strategies, security measures, and authentication protocols.
 
-7. **[Screens & User Flow](docs/screens_userflow.md)**  
-   A detailed overview of all the app's screens and the user flow, for both end-users and administrators.
-
-8. **[Deployment & Infrastructure](docs/deployment_infrastructure.md)**  
+7. **[Deployment & Infrastructure](docs/deployment_infrastructure.md)**  
    Information about the deployment process, infrastructure setup, and continuous integration/continuous deployment (CI/CD) pipeline.
 
-9. **[Glossary & FAQ](docs/glossary_faq.md)**  
+8. **[Glossary & FAQ](docs/glossary_faq.md)**  
    Definitions of technical terms and answers to frequently asked questions about the app.
 
 ---
